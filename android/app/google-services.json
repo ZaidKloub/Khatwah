@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581373587742",
+    "project_id": "khatwah-6e445",
+    "storage_bucket": "khatwah-6e445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581373587742:android:c4ed22b6ac0833c77f590f",
+        "android_client_info": {
+          "package_name": "com.example.khatwah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTdWsUvS_mAZnILjetfNdaJRMzuLYUqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
